@@ -45,7 +45,7 @@
 
 ### Prerequisites 
 
-In order to run this project you need:
+In order to run this project you need:git 
 
 N/A
 ### Setup
