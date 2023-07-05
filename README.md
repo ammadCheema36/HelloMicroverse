@@ -13,6 +13,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -43,9 +44,11 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
+
 ### Prerequisites 
 
-In order to run this project you need:git 
+In order to run this project you need: git 
 
 N/A
 ### Setup
@@ -55,12 +58,15 @@ Clone this repository to your desired folder:
 git clone https://github.com/ammadCheema36/HelloMicroverse.git
 ### Install
 
+Dependency installation command, e.g., npm install
+
 
 ### Usage
 
 To run the project, execute the following command:
 after cloning view using live sever 
 
+npm init -y
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,6 +84,13 @@ after cloning view using live sever
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+- [1] **[Interactive Mini-Games]**
+
 
 
 <!-- CONTRIBUTING -->
